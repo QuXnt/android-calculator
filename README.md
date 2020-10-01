@@ -1,5 +1,5 @@
 # android-calculator
-A simple android calculator
+A simple android calculator that will faten your calculations.
 
 
 ![alt text][logo]
